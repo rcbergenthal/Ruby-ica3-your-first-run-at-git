@@ -40,3 +40,6 @@ body{
     color: aliceblue;
     background-color: #242421;
 }
+form{
+    margin-top: 100px;
+}
