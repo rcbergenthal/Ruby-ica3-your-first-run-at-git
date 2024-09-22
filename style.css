@@ -24,10 +24,8 @@
     font-family:'Courier New', Courier;
     font-size: large;
 }
-body {
-    background-image: url("mothpic.png");
-    background-size: cover;
-    background-position: center top;   
+body{
+    background-color: lightslategrey;  
 }
 .table {
     border: 5px solid #242421;
@@ -36,8 +34,9 @@ body {
 }
 .table td {
     color: aliceblue;
-    background-color: darkgreen;
+    background-color: darkslategray;
 }
 .table th{
     color: aliceblue;
+    background-color: #242421;
 }
